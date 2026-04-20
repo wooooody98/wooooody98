@@ -5,7 +5,7 @@
 > *Bridging compliance and code.*
 > **Law × Technology × Finance.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TBD-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hai--Peng%20Shih-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hai-peng-shih-401482128/)
 [![Twitter](https://img.shields.io/badge/Twitter-@WoodyShih97-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/WoodyShih97)
 
 </div>
