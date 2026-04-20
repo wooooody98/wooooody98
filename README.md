@@ -6,7 +6,7 @@
 > **Law × Technology × Finance.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TBD-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-TBD-000000?style=flat-square&logo=x&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-@WoodyShih97-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/WoodyShih97)
 
 </div>
 
