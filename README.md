@@ -23,9 +23,6 @@
 [typing-link]: https://git.io/typing-svg
 [typing-svg]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Law+%7C+Technology+%7C+Finance;GDPR+%26+ISO%2FIEC+27001;Bridging+Compliance+and+Code.
 
-Working at the intersection of **law, technology, and finance**.
-遊走於**法律、科技與金融**的交會處。
-
 - 🔭 **Currently working on**: _TBD_
 - 🌱 **Learning**: _TBD_
 - 💼 **Experience**: _TBD_
